@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKERHUB_CREDENTIALS = 'docker-hub'
-        IMAGE_NAME = 'gokularaman/flask-app'
+        IMAGE_NAME = 'gokulraman/flask-app'
         IMAGE_TAG = 'v1'
     }
 
